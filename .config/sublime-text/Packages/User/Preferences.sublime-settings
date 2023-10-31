@@ -1,0 +1,18 @@
+{
+	"theme": "GitHub Light.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "GitHub Light.sublime-color-scheme",
+	"font_face": "JetBrains Mono",
+	"font_size": 13,
+	"highlight_line": true,
+    "margin": 20,
+    "line_padding_bottom": 3,
+    "line_padding_top": 3,
+    "caret_extra_bottom": 2,
+    "caret_extra_top": 2,
+    "hide_tab_scrolling_buttons": true,
+    "save_on_focus_lost": true,
+}
