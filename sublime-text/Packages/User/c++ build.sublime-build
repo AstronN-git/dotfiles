@@ -8,7 +8,7 @@
 	[
 		{
 			"name": "Run",
-			"shell_cmd": "g++ \"${file}\" -fsanitize=address -fsanitize=undefined -DASTRON -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\" < \"${file_path}/input\""
+			"shell_cmd": "g++ \"${file}\" -fsanitize=address -fsanitize=undefined -DASTRON -o \"${file_path}/${file_base_name}\" && time \"${file_path}/${file_base_name}\" < \"${file_path}/input\""
 		}
 	]
 }
